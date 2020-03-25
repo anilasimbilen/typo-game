@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 Contains Mobile and Web application
 
+Play this game on
  [Web application preview](https://typo-game.netlify.com/#/)
