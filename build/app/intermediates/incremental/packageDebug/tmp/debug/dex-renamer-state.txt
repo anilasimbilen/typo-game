@@ -1,0 +1,4 @@
+#Wed Mar 25 14:40:13 EET 2020
+base.0=D\:\\WorkSpace2\\typo_game\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
