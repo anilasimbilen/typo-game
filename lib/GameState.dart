@@ -1,0 +1,6 @@
+enum GameState {
+  LOBBY,
+  PLAYING,
+  GAME_OVER,
+  BROWSING_TABLE
+}
